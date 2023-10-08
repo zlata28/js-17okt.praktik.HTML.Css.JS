@@ -2,9 +2,17 @@ body{
     display: block;
     text-align: center;
     }
-    
+.container{
+   
+     
+    border: 1px,solid,black;
+}    
     .cont{
         flex-direction: column;
         display: flex;
         gap: 10px;
+        
+    }
+    .cont,label{
+    
     }
