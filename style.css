@@ -1,0 +1,10 @@
+body{
+    display: block;
+    text-align: center;
+    }
+    
+    .cont{
+        flex-direction: column;
+        display: flex;
+        gap: 10px;
+    }
