@@ -22,3 +22,4 @@ let User = {
 
 let output = document.querySelector();
 alert(output)
+//console
